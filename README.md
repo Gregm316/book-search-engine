@@ -25,7 +25,7 @@ A user must `git clone` this repository. Onced the repository is cloned, a user 
 From the command line in the terminal, a user can type `npm run develop` to open the book search engine in their browser utilizing their local host http://localhost:3000/. The application is also deployed using Heroku. 
 
 ### **Link to deployed Heroku application:**
-
+https://book-search-engine-gm.herokuapp.com/
 
 ### **Screenshots of the Google Books Search Engine:**
 
